@@ -1,0 +1,24 @@
+body{
+    background-color: #E0E0E2;
+}
+.center-text{
+    
+    text-align: center;
+}
+#logo{
+    margin: auto;
+    display: block;
+}
+h2{
+    color: #721817 ;
+    font-size: 0.75em;
+}
+#copyright{
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+h1{
+    color: #721817;
+}
+✗ All <h2> tags should have a color of '#721817' (+ 2 related tests)
+✗ The element with the ID 'copyright' should have a font-size of 0.75em
